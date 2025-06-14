@@ -19,6 +19,11 @@ export default function Home() {
         titulo="Remada unilateral"
         parrafo="3 séries x 12 repetições"
       />
+      <Carta
+        imagen="/cuatro.png"
+        titulo="Levantamento terra"
+        parrafo="3 séries x 12 repetições"
+      />
       
     </div>
   );
