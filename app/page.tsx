@@ -14,6 +14,11 @@ export default function Home() {
         titulo="Remada curvada"
         parrafo="3 séries x 12 repetições"
       />
+      <Carta
+        imagen="/tres.png"
+        titulo="Remada unilateral"
+        parrafo="3 séries x 12 repetições"
+      />
       
     </div>
   );
