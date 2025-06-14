@@ -9,6 +9,11 @@ export default function Home() {
         titulo="Puxada frontal"
         parrafo="3 séries x 12 repetições"
       />
+       <Carta
+        imagen="/dos.png"
+        titulo="Remada curvada"
+        parrafo="3 séries x 12 repetições"
+      />
       
     </div>
   );
