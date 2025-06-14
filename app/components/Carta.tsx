@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+
 
 interface Props {
   imagen: string;
@@ -15,7 +16,7 @@ const Carta = ({ imagen, titulo, parrafo }: Props) => {
           <p>{parrafo}</p>
         </div>
       </div>
-      <img src="/icono2.jpg" alt="" className="icono" />
+      <img src="/ic.png" alt="" className="icono" />
     </div>
   );
 };
